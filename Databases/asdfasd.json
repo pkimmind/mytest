@@ -1,0 +1,9 @@
+{
+  "database" : {
+    "name" : "asdfasd",
+    "virtualPrivateDatabase" : false,
+    "crmMetadataTables" : false,
+    "allowDirectDatabaseRequests" : false,
+    "allowPopulateQueries" : false
+  }
+}
